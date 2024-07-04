@@ -1,0 +1,8 @@
+fastapi 
+uvicorn 
+jinja2 
+aiofiles 
+Pillow 
+tensorflow 
+numpy
+python-telegram-bot
