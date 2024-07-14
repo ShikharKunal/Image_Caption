@@ -9,7 +9,7 @@ from telegram import Update, Bot
 from telegram.ext import Updater, Application, CommandHandler, MessageHandler, filters, CallbackContext
 
 from typing import Final
-TOKEN: Final = "7465491466:AAF3G3YLwIFJ1r5oxOqs7iOgl2SyAGePR40"
+TOKEN: Final = ""
 
 STARTING, CAPTION = range(2)
 
